@@ -1,0 +1,63 @@
+body { 
+
+  background-color: #cccccc;
+}
+
+#wrapper {
+  width: 600px;
+  margin: 50px auto 0;
+}
+
+#display {
+  font: bold;
+  font-size: 60px;
+  color: white;
+  text-align: center;
+  background: orange;
+}
+
+#buttons { 
+  text-align: center;
+}
+
+#randomnumber {
+	border: 25px solid green;
+	width: 50px;
+	height: 25px;
+	padding: 0px;
+	color: white;
+	background: green;	
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#WL {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #00FFFF;
+	width: 50px;
+	padding-right: 20px;
+}
+
+#scoretext {
+	background-color: #FFFF00;
+	width: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+img {
+	height: 127px;
+	width: 120px;
+}
+
+#score {
+	border: 25px solid #FFFF00;
+	width: 50px;
+	height: 25px;
+	padding: 0px;
+	color: white;
+	background: #FFFF00;	
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
